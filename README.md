@@ -83,7 +83,7 @@ I'm **Zulhan**, an Informatics student at Universitas Negeri Surabaya who turns 
   <a href="https://github.com/ZulhanF">
     <img
       height="170"
-      src="https://github-readme-stats.vercel.app/api?username=ZulhanF&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D0B14&amp;title_color=FF4FA3&amp;icon_color=00E5FF&amp;text_color=E6EDF3"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZulhanF&amp;theme=radical"
       alt="Zulhan's GitHub statistics"
     />
   </a>
@@ -100,7 +100,7 @@ I'm **Zulhan**, an Informatics student at Universitas Negeri Surabaya who turns 
   <a href="https://github.com/ZulhanF">
     <img
       height="170"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZulhanF&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=0D0B14&amp;title_color=FF4FA3&amp;text_color=E6EDF3"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZulhanF&amp;theme=radical"
       alt="Zulhan's most used languages"
     />
   </a>
@@ -112,7 +112,7 @@ I'm **Zulhan**, an Informatics student at Universitas Negeri Surabaya who turns 
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ZulhanF&amp;bg_color=0D0B14&amp;color=E6EDF3&amp;line=00E5FF&amp;point=FF4FA3&amp;area=true&amp;area_color=6D28D9&amp;hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZulhanF&amp;theme=radical"
     alt="Zulhan's GitHub activity graph"
     width="100%"
   />
