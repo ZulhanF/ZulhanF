@@ -169,6 +169,9 @@ An online room-booking system for UNESA that helps students and lecturers check 
   <a href="https://instagram.com/zievolution">
     <img src="https://img.shields.io/badge/Instagram-%40zievolution-FF4FA3?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram: @zievolution" />
   </a>
+  <a href="https://zulhan.bond">
+    <img src="https://img.shields.io/badge/Portfolio-zulhan.bond-00B8D4?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio: zulhan.bond" />
+  </a>
 </div>
 
 ---
